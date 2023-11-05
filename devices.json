@@ -1,0 +1,16 @@
+[
+    {
+        "brand": "Xiaomi",
+        "codename": "munch",
+        "name": "Redmi K40S/Poco F4 5G",
+        "supported_versions": [
+           {
+              "maintainer_name": "HDzungx",
+              "maintainer_url": "https://t.me/hdzungx",
+              "version_code": "14",
+              "version_name": "14",
+              "xda_thread": ""
+           }
+        ]
+     }
+]

@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Device: Redmi K40S/Poco F4 5G
+Device maintainer: HDzungx
+
+===== October 29, 2023 ======
+
+Changelog:
+
+- ...
+
+HZOS | Be on the same wavelength

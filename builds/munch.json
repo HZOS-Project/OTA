@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "HDzungx",
+			"oem": "",
+			"device": "Redmi K40S",
+			"filename": "",
+			"download": "",
+			"timestamp": 0,
+			"md5": "",
+			"sha256": "",
+			"size": 0,
+			"version": 1.0,
+			"buildtype": "Active Development Releases",
+			"forum": "https://t.me/HZOS",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hdzungx",
+			"telegram": "https://t.me/HZOS",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
